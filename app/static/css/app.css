@@ -5,3 +5,10 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+.card{
+    border-radius: 4px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.08), 0 0 5px rgba(0,0,0,.05);
+    border-top: 4px solid;
+    border-top-color: #00B4A3; 
+}
